@@ -30,7 +30,7 @@ Proponemos soluciones basadas en redes inalámbricas comunitarias, subsidios a l
 
 ### 📊 Módulo B: Selección de Datos
 Para este proyecto utilizamos fuentes oficiales y verificables:
-1. **INEGI (INEGI)[https://hackods.github.io/] (ENDUTIH 2024):** Datos sobre disponibilidad de internet en hogares por estado.
+1. **INEGI (ENDUTIH 2024):** Datos sobre disponibilidad de internet en hogares por estado.
 2. **CONEVAL (2023):** Índices de rezago social y pobreza.
 3. **Mejoredu (2024):** Estadísticas de abandono escolar y rendimiento.
 
